@@ -1,0 +1,55 @@
+---
+title: Batu Projects
+timezone: UTC
+collections:
+  about:
+    title: About
+    output: false
+  home-sections:
+    title: Home Sections
+    output: false
+  posts:
+    title: Posts
+    output: true
+  projects:
+    title: Projects
+    output: true
+    permalink: "/projects/:path/"
+    layout: project
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: projects
+  values:
+    title: ''
+    categories:
+    - ''
+    credit_text: ''
+    layout: project
+    thumbnail_image: ''
+    images:
+    - path: ''
+      class: ''
+    has_video: false
+    video_embeds:
+    - ''
+- scope:
+    path: ''
+    type: home-sections
+  values:
+    title: ''
+    has_title: true
+    layout: default
+    link: ''
+    background_image: ''
+    is_video: false
+    video_url: ''
+name: Batu
+highlighter: rouge
+exclude:
+- node_modules
+- gulpfile.js
+- package.json
