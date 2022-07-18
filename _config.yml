@@ -5,6 +5,9 @@ collections:
   about:
     title: About
     output: false
+  contact:
+    title: Contact
+    output: false
   home-sections:
     title: Home Sections
     output: false
@@ -19,6 +22,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  work:
+    title: Work
+    output: false
 defaults:
 - scope:
     path: ''
