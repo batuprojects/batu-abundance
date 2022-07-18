@@ -3,7 +3,7 @@ title: KENDRA SCOTT - SPRING 2018
 date: 2018-03-14 20:25:00 Z
 categories:
 - advertising
-position: 45
+position: 46
 credit_text: |-
   Creative Director: Jan Makowsky
   Photographer: Trever Hoehne
