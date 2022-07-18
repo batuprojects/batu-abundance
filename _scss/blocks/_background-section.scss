@@ -1,0 +1,11 @@
+.background-section {
+    background-position: 50% 50%;
+    background-size: cover;
+    @include breakpoint(large) {
+        background-attachment: fixed;
+    }
+
+    img {
+        display: none;
+    }
+}
