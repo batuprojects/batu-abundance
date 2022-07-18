@@ -8,13 +8,13 @@ tags:
 - americanvogue
 position: 7
 credit_text: |-
-  MODEL: Kendall Jenner
+  Model: Kendall Jenner
 
-  FASHION EDITOR: Alex Harrington
+  Fashion Editor: Alex Harrington
 
-  PHOTO: Larissa Hofman
+  Photographer: Larissa Hofman
 
-  MAKE UP: Grace Ahn
+  Make Up: Grace Ahn
 thumbnail_image: "/uploads/MAIN_IMAGE.jpg"
 images:
 - path: "/uploads/10_DE_V2.jpg"
