@@ -6,6 +6,7 @@ categories:
 position: 11
 credit_text: |-
   Photographer: Zee Nunes
+
   Model: Grace Elizabeth
 thumbnail_image: "/uploads/20190205_ZEE_ANIMALE1391.jpg"
 images:
