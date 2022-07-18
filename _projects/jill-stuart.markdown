@@ -3,7 +3,7 @@ title: Jill Stuart
 date: 2017-01-07 03:12:00 Z
 categories:
 - advertising
-position: 43
+position: 42
 thumbnail_image: "/uploads/MAIN-1b042b.jpg"
 images:
 - path: "/uploads/383386-800w.jpg"

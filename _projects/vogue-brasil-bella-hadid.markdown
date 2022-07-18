@@ -3,7 +3,7 @@ title: VOGUE BRASIL - BELLA HADID
 date: 2017-09-01 13:30:00 Z
 categories:
 - editorial
-position: 38
+position: 37
 credit_text: |-
   Photographer: Gui Paganini
 
