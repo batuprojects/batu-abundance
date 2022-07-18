@@ -4,7 +4,7 @@ date: 2017-01-07 04:21:00 Z
 categories:
 - advertising
 - special projects
-position: 7
+position: 6
 credit_text: 'Photographer: Heji Shin'
 thumbnail_image: "/uploads/MAIN-1f49dc.jpg"
 images:
