@@ -1,7 +1,7 @@
 ---
 title: CUSTOMELLOW FW 2017
 date: 2017-05-17 16:04:00 Z
-position: 39
+position: 38
 credit_text: |-
   PHOTOGRAPHER: KT AULETA
   STYLIST: KATIE BURNETT

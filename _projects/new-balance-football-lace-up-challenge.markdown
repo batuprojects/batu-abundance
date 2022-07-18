@@ -4,7 +4,7 @@ date: 2017-01-09 00:11:00 Z
 categories:
 - video
 - advertising
-position: 44
+position: 43
 credit_text: BATU Productions
 thumbnail_image: "/uploads/NB_LACEUP.gif"
 has_video: true

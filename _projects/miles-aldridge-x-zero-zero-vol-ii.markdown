@@ -3,7 +3,7 @@ title: MILES ALDRIDGE x ZERO ZERO VOL II
 date: 2022-07-08 22:20:00 Z
 categories:
 - special projects
-position: 33
+position: 32
 credit_text: |-
   Photographer: Miles Aldridge
   Creative Directo: Nicola Formichetti

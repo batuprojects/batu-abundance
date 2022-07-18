@@ -4,7 +4,7 @@ date: 2017-09-25 18:33:00 Z
 published: false
 categories:
 - editorial
-position: 37
+position: 36
 credit_text: 'photographer: Cameron McCool'
 thumbnail_image: "/uploads/CM_VOGUE%20BRAZIL%20(8)%20copy-627379.jpg"
 images:

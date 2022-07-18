@@ -3,7 +3,7 @@ title: PORTER - HOLLYWOOD ISSUE
 date: 2020-09-02 23:06:00 Z
 categories:
 - editorial
-position: 32
+position: 31
 thumbnail_image: "/uploads/Portfolio%20Cover_1_desktop.jpg"
 images:
 - path: "/uploads/Portfolio%20Cover_CYNTHIA.jpg"
