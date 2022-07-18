@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<main class="work-detail inner">
+  <div class="project__header">
+    <h1>{{ page.title }}</h1>
+    {% if page.credit_text %}
+      <h3>{{ page.credit_text | markdownify }}</h3>
+    {% endif %}
+  </div>
+
+  <div class="project__wrapper">
+
+    {% if page.has_video %}
+
+        <div class="project_block project_block">
+          {% for video in page.video_embeds %}
+          <div class="embed-container">
+            {{ video }}
+          </div>
+          {% endfor %}
+        </div>
+
+    {% endif %}
+
+    {% for image in page.images %}
+    <div class="project_block project_block--{{ image.class }}">
+      <img src="{{ image.path }}" class="none">
+    </div>
+    {% endfor %}
+
+  </div>
+
+</main>
