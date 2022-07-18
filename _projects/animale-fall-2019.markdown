@@ -5,8 +5,8 @@ categories:
 - advertising
 position: 11
 credit_text: |-
-  PHOTOGRAPHER: ZEE NUNES
-  MODEL: GRACE ELIZABETH
+  Photographer: Zee Nunes
+  Model: Grace Elizabeth
 thumbnail_image: "/uploads/20190205_ZEE_ANIMALE1391.jpg"
 images:
 - path: "/uploads/20190205_ZEE_ANIMALE1675.jpg"
