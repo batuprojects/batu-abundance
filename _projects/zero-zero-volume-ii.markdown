@@ -4,7 +4,7 @@ date: 2017-01-20 19:37:00 Z
 categories:
 - special projects
 - editorial
-position: 58
+position: 57
 credit_text: |-
   Photographer: Miles Aldridge
 
