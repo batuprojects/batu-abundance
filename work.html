@@ -1,0 +1,36 @@
+---
+title: Work
+layout: default
+---
+
+<main class="work inner">
+
+    <section>
+      <ul class="tabs filter-button-group">
+          <li><button data-filter="*" href="#" class="info-tab__item info-tab__item--active">All</button></li>
+          <li><button data-filter=".advertising" href="#" class="info-tab__item">Advertising</button></li>
+          <li><button data-filter=".editorial" href="#" class="info-tab__item">Editorial</button></li>
+          <li><button data-filter=".video" href="#" class="info-tab__item">Video</button></li>
+          <li><button data-filter=".special" href="#" class="info-tab__item">Special Projects</button></li>
+          <li><button data-filter=".events" href="#" class="info-tab__item">Events</button></li>
+      </ul>
+    </section>
+
+    <div class="archive-gallery fluid-box fluid-box--small-paddings" id="archive-gallery">
+
+      {% assign sorted_projects = site.projects | sort:"position" %}
+
+      {% for project in sorted_projects %}
+        <a href="{{ project.url }}" class="archive-gallery__item
+          {% for category in project.categories %}
+            {{ category | append: " " }}
+          {% endfor %}
+        " >
+          <img class="lazy" data-original="{{ project.thumbnail_image }}" alt="picture">
+          <p>{{ project.title }}</p>
+        </a>
+      {% endfor %}
+
+    </div>
+
+  </main>

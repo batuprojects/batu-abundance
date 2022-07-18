@@ -1,0 +1,17 @@
+---
+title: Contact
+layout: default
+---
+
+<main class="central-box info">
+  {% assign sorted_items = site.contact | sort: 'position' %}
+  {% for section in sorted_items %}
+  <section class='info__divider {{ section.title }}'>
+	
+    {{ section.content }}
+  </section>
+  {% endfor %}
+
+
+
+</main>

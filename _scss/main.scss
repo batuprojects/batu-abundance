@@ -1,0 +1,30 @@
+/*
+The main SCSS file for everything, yep
+*/
+
+// Vendor
+@import "vendor/normalize";
+// Importing libraries gulp/tasks/config.js
+@import "vendor/bourbon/bourbon";
+// @import "neat";
+
+// Base
+@import "mixins/breakpoint";
+@import "base/base";
+
+@import "blocks/header";
+@import "blocks/header-nav";
+
+@import "blocks/footer";
+// @import "blocks/embeded-videos";
+@import "blocks/central-box";
+@import "blocks/info";
+@import "blocks/video-widget";
+@import "blocks/tabs";
+@import "blocks/full-screen-widget";
+@import "blocks/background-section";
+@import "blocks/aligned-text";
+@import "blocks/home";
+@import "blocks/archive-gallery";
+@import "blocks/work-detail";
+@import "blocks/transitions"
