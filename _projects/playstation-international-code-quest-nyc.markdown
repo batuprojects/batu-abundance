@@ -4,7 +4,7 @@ date: 2022-07-07 23:00:00 Z
 categories:
 - events
 - special projects
-position: 9
+position: 10
 thumbnail_image: "/uploads/MAIN_GIF-5c3ae0.gif"
 has_video: true
 video_embeds:
