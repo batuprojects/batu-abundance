@@ -6,6 +6,7 @@ categories:
 position: 3
 credit_text: |-
   PHOTOGRAPHER: ZEE NUNES
+
   FASHION DIRECTOR: PEDRO SALES
 thumbnail_image: "/uploads/5-e9e07b.jpg"
 images:
