@@ -4,7 +4,7 @@ date: 2017-01-25 19:36:00 Z
 categories:
 - video
 - advertising
-position: 25
+position: 27
 thumbnail_image: "/uploads/JERMAIN_NB15.gif"
 has_video: true
 video_embeds:
