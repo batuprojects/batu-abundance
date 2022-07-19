@@ -3,7 +3,7 @@ title: PF FLYERS - MADE RIGHT HERE
 date: 2017-01-07 22:19:00 Z
 categories:
 - video
-position: 17
+position: 16
 thumbnail_image: "/uploads/PFFLYERS.gif"
 has_video: true
 video_embeds:
