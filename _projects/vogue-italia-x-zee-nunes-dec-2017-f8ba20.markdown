@@ -5,7 +5,7 @@ categories:
 - editorial
 position: 15
 credit_text: 'Photographer: Zee Nunes'
-thumbnail_image: "/uploads/f14ea120477764deec306c2ed5df4b4c.jpg"
+thumbnail_image: "/uploads/Screen%20Shot%202022-07-08%20at%201.17.13%20PM-9b1618.png"
 images:
 - path: "/uploads/f14ea120477764deec306c2ed5df4b4c-d26bbd.jpg"
   class: half
