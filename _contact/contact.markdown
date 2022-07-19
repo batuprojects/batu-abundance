@@ -12,8 +12,7 @@ layout: default
 New York, NY 10038\
 \+1 212-951-0359
 
-**\
-\*\*LOS ANGELES \*\***\
+**\*\*LOS ANGELES \*\***\
 2028 N Beachwood Drive Suite 305\
 Los Angeles, CA 90068\
 \+1 212-951-0359
@@ -21,15 +20,12 @@ Los Angeles, CA 90068\
 **GENERAL INQUIRIES**\
 [Info@Batuprojects.com](mailto:info@batuprojects.com)
 
-\
 **NEW BUSINESS INQUIRIES**\
 [Marcus@Batuprojects.com](mailto:marcus@batuprojects.com)
 
-\
 **LOCATION INQUIRIES**\
 Locations@Batuprojects.com
 
-\
 **SOCIAL**\
 [Facebook](https://www.facebook.com/batuprojects)\
 [Instagram](https://www.instagram.com/batu_prod/)
