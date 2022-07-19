@@ -6,9 +6,9 @@ categories:
 - editorial
 position: 37
 credit_text: 'photographer: Cameron McCool'
-thumbnail_image: "/uploads/CM_VOGUE%20BRAZIL%20(8)%20copy-627379.jpg"
+thumbnail_image: "/uploads/CM_VOGUE%20BRAZIL%20(8)%20copy.jpg"
 images:
-- path: "/uploads/CM_VOGUE%20BRAZIL%20(9)-1e0c56.jpg"
+- path: "/uploads/CM_VOGUE%20BRAZIL%20(9)-7122d1.jpg"
   class: full
 - path: "/uploads/CM_VOGUE%20BRAZIL%20(10).jpg"
   class: full
