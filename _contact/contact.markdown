@@ -5,7 +5,7 @@ permalink: contact
 layout: default
 ---
 
-**CONTACT**
+
 
 **\*\*NEW   YORK \*\***\
 2 E Broadway Ste 1006\
