@@ -3,7 +3,7 @@ title: J ESTINA FW 2014
 date: 2017-01-07 18:26:00 Z
 categories:
 - advertising
-position: 63
+position: 64
 thumbnail_image: "/uploads/MAIN-3c7f23.jpg"
 images:
 - path: "/uploads/MAIN-e1ea92.jpg"

@@ -3,7 +3,7 @@ title: J ESTINA SS 14
 date: 2017-01-07 18:29:00 Z
 categories:
 - advertising
-position: 64
+position: 65
 credit_text: 'Models: ELLE & Dakota Fanning'
 thumbnail_image: "/uploads/21280X1024-J-1-8cf13e.jpg"
 images:

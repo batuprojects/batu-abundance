@@ -3,7 +3,7 @@ title: Curieux London - Knoxville SS 16
 date: 2017-01-07 04:28:00 Z
 categories:
 - advertising
-position: 52
+position: 53
 credit_text: 'Photographer: Heji Shin'
 thumbnail_image: "/uploads/01290012-7a4c85.jpg"
 images:

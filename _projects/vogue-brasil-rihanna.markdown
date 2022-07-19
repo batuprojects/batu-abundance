@@ -3,7 +3,7 @@ title: Vogue Brasil - Rihanna
 date: 2017-01-07 03:30:00 Z
 categories:
 - editorial
-position: 34
+position: 35
 credit_text: 'Photographer: Mariano Vivanco'
 thumbnail_image: "/uploads/mgid_arc_imageassetref_bet.jpg"
 images:

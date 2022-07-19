@@ -3,7 +3,7 @@ title: ANIMALE x GRACE ELIZABETH- Fall 2019
 date: 2019-03-28 13:35:00 Z
 categories:
 - advertising
-position: 11
+position: 12
 credit_text: |-
   Photographer: Zee Nunes
 
