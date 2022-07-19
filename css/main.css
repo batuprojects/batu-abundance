@@ -1031,4 +1031,6 @@ body {
 
 .CONTACT.INFO a {text-decoration: none;}
 
-.CONTACT.INFO p:last-child a {text-decoration: underline;}
+.tabs .info-tab__item {font-size: 0.625rem; color: #808080;}
+
+.header-nav__item a {color: #808080;}
