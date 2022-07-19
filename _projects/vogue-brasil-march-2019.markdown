@@ -3,7 +3,7 @@ title: VOGUE BRASIL - MARCH 2019
 date: 2019-03-21 19:44:00 Z
 categories:
 - editorial
-position: 43
+position: 48
 credit_text: |-
   Photographer: Zee Nunes
 
