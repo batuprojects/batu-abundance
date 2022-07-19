@@ -5,7 +5,7 @@ position: 39
 credit_text: |-
   PHOTOGRAPHER: KT AULETA
   STYLIST: KATIE BURNETT
-thumbnail_image: "/uploads/campaign%20with%20logo1.jpg"
+thumbnail_image: "/uploads/21be2eb9-8781-40d7-a64f-fbf3738ccd17-4ad2d4.jpg"
 images:
 - path: "/uploads/campaign%20with%20logo2.jpg"
   class: full
