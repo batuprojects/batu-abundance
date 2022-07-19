@@ -4,6 +4,9 @@ date: 2017-01-07 03:12:00 Z
 categories:
 - advertising
 position: 41
+credit_text: |-
+  Photographer: Cedric Bouchet
+  Styling: Mel Ottenberg
 thumbnail_image: "/uploads/MAIN-1b042b.jpg"
 images:
 - path: "/uploads/Screen%20Shot%202016-10-26%20at%201.48.14%20PM.png"
