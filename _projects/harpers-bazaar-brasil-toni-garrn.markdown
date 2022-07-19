@@ -8,7 +8,7 @@ credit_text: |-
   Photographer: David Roemer
 
   Stylist: Katie Burnette
-thumbnail_image: "/uploads/CAPA_BAZAAR42.jpg"
+thumbnail_image: "/uploads/Screen%20Shot%202022-07-19%20at%2012.45.51%20AM-6125c1.png"
 images:
 - path: "/uploads/CAPA_BAZAAR42-47a77c.jpg"
   class: half
