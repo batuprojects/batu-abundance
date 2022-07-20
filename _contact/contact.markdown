@@ -24,7 +24,7 @@ Los Angeles,  90068\
 [Marcus@Batuprojects.com](mailto:marcus@batuprojects.com)
 
 **LOCATION INQUIRIES**\
-Locations@Batuprojects.com
+Locations@Batuprojects.com<br><br>
 
 **SOCIAL**\
 [Facebook](https://www.facebook.com/batuprojects)\
