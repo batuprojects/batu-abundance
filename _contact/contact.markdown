@@ -5,7 +5,8 @@ permalink: contact
 layout: default
 ---
 
-<br><br>**NEW   YORK**\
+**CONTACT**<br><br>
+**NEW YORK**\
 2 E Broadway Ste 1006\
 New York,  10038\
 \+1 212-951-0359 <br><br>
