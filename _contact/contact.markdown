@@ -5,19 +5,15 @@ permalink: contact
 layout: default
 ---
 
-
-
 **\*\*NEW   YORK \*\***\
 2 E Broadway Ste 1006\
-New York, NY 10038\
+New York,  10038\
 \+1 212-951-0359
 
 **\*\*LOS ANGELES \*\***\
 2028 N Beachwood Drive Suite 305\
-Los Angeles, CA 90068\
+Los Angeles,  90068\
 \+1 212-951-0359
-
-
 
 **GENERAL INQUIRIES**\
 [Info@Batuprojects.com](mailto:info@batuprojects.com)
