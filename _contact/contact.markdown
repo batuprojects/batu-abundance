@@ -10,7 +10,7 @@ layout: default
 New York,  10038\
 \+1 212-951-0359 
 
-**\*\*LOS ANGELES \*\***\
+**LOS ANGELES**\
 2028 N Beachwood Drive Suite 305\
 Los Angeles,  90068\
 \+1 212-951-0359
