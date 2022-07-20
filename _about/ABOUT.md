@@ -12,8 +12,7 @@ BATU is a full service production company with offices in New York and Los Angel
 BATU offers small to large-scale production of advertising and editorial photo shoots, film and digital content creation, events, pop ups, and public art installations.  Our range of services includes all aspects of production specializing in location scouting, casting, budget management, creative consulting, still and video production, art buying, and a wide range of client services.
 
 Our goal is to accomplish the creative vision of our clients while providing a high-end service ensuring a smooth and enjoyable production from start to finish.
-
-
+<br><br><br><br>
 
 
 
