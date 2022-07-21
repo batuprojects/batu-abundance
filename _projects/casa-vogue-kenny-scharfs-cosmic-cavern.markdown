@@ -5,7 +5,7 @@ categories:
 - editorial
 - special
 position: 47
-credit_text: 'Photographer: Bijoux Altamirano\
+credit_text: 'Photographer: Bijoux Altamirano
 
 '
 thumbnail_image: "/uploads/IMG_5855.jpg"
