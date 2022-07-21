@@ -5,21 +5,23 @@ categories:
 - advertising
 position: 52
 credit_text: 'Photographer: Heji Shin'
-thumbnail_image: "/uploads/01290012-7a4c85.jpg"
+thumbnail_image: "/uploads/01420009.jpg"
 images:
-- path: "/uploads/01290012.jpg"
-  class: full
 - path: "/uploads/01100002-46fc10.jpg"
   class: full
-- path: "/uploads/01300003.jpg"
+- path: "/uploads/Curieux7.jpg"
   class: full
-- path: "/uploads/01420009.jpg"
+- path: "/uploads/curieux6.jpg"
   class: full
-- path: "/uploads/01440013-261400.jpg"
+- path: "/uploads/curieux5.jpg"
   class: full
-- path: "/uploads/01300015-d372b9.jpg"
-  class: half
-- path: "/uploads/01140001.jpg"
-  class: half
+- path: "/uploads/Curieux4.jpg"
+  class: full
+- path: "/uploads/Curieux3.jpg"
+  class: full
+- path: "/uploads/Curieux2.jpg"
+  class: full
+- path: "/uploads/CURIEUX1.jpg"
+  class: full
 ---
 
