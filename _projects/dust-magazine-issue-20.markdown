@@ -5,11 +5,11 @@ tags:
 - editorial
 position: 5
 credit_text: |-
-  PHOTOGRAPHERS: LUIGI & IANGO
+  Photographers: Luigi & Iango
 
-  STYLIST: BEAT BOLLIGER
+  Stylist: Beat Bolliger
 
-  MODEL: MILA JOVOVICH & EVER ANDERSON
+  Model: Mila Jovovich & Ever Anderson
 thumbnail_image: "/uploads/Luigi%20and%20Iango%20-%20Beat%20Bolliger%20DUST20%20DEF%20(1)%20(dragged)%202.jpg"
 images:
 - path: "/uploads/MAIN-2815d4.jpg"
