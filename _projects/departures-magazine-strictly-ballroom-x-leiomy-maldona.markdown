@@ -5,7 +5,7 @@ categories:
 - video
 - editorial
 position: 0
-credit_text: 'MODEL: LEIOMY MALDONA'
+credit_text: 'Model: Leiomy Maldona'
 thumbnail_image: "/uploads/MAIN_GIF.gif"
 has_video: true
 video_embeds:
