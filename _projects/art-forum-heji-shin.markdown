@@ -8,13 +8,13 @@ position: 15
 credit_text: 'Photographer: Heji Shin'
 thumbnail_image: "/uploads/Cg52ZxJWwAELV9_.jpg"
 images:
-- path: "/uploads/Cg52ZxJWwAELV9_-fb93e0.jpg"
-  class: full
-- path: "/uploads/heji-shin-untitled-1-800x800.jpg"
+- path: "/uploads/concrete_Heji-Shin_Art-Forum_Lonely-Girl-5-1024x1532.jpg"
   class: half
-- path: "/uploads/Heji_Shin_lonelygirl2_2015_galeriebernhard_16_likeyou.jpg"
+- path: "/uploads/Heji_Shin_lonelygirl2_2015_galeriebernhard_16_likeyou-9bf260.jpg"
   class: half
-- path: 
-  class: 
+- path: "/uploads/Heji_Shin_lonelygirl2_2015_galeriebernhard_16_likeyou-a9a5b1.jpg"
+  class: half
+- path: "/uploads/heji-shin-untitled-1-800x800-ddb915.jpg"
+  class: half
 ---
 
