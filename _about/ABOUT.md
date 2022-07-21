@@ -5,7 +5,7 @@ position: 1
 layout: default
 ---
 
-**ABOUT**
+**ABOUT**<br><br>
 
 BATU is a full service production company with offices in New York and Los Angeles. It was founded in 2014 by Marcus Chang, a Brazilian born / NYC raised Executive Producer who started working in print / advertising media as a writer for Condé Nast Publications and The New York Times.
 
