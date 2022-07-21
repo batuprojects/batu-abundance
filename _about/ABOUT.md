@@ -18,8 +18,7 @@ Our goal is to accomplish the creative vision of our clients while providing a h
 
 
 
-**PRODUCTION**
-
+**PRODUCTION**\
 STILL/VIDEO & DIGITAL PRODUCTION, EVENTS, ART BUYING
 ESTIMATING \+ BUDGET MANAGEMENT, POST PRODUCTION
 
