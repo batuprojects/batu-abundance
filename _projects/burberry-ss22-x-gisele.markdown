@@ -10,15 +10,15 @@ tags:
 - luigiandiango
 position: 1
 credit_text: |-
-  PHOTOGRAPHERS: Luigi & Iango
+  Photographers: Luigi & Iango
 
-  CREATIVE DIRECTOR: Riccardo Tiscci
+  Creative Director: Riccardo Tiscci
 
-  STYLIST: Suzanne Koller
+  Stylist: Suzanne Koller
 
-  MAKE UP: Georgi Sandev
+  Make Up: Georgi Sandev
 
-  SET DESIGN: JACK FLANAGAN
+  Set Designer: JACK FLANAGAN
 thumbnail_image: "/uploads/9320F2CF-1E1E-4C2B-BFF5-93139405B81F-d1ebf3.JPG"
 images:
 - path: "/uploads/9320F2CF-1E1E-4C2B-BFF5-93139405B81F.JPG"
