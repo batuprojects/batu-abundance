@@ -1,5 +1,5 @@
 ---
-title: SERVICES
+title: ABOUT
 permalink: about
 position: 1
 layout: default
