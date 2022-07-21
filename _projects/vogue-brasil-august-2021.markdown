@@ -5,9 +5,9 @@ categories:
 - editorial
 position: 3
 credit_text: |-
-  PHOTOGRAPHER: ZEE NUNES
+  Photographer: ZEE NUNES
 
-  FASHION DIRECTOR: PEDRO SALES
+  Fashion Director: PEDRO SALES
 thumbnail_image: "/uploads/5-e9e07b.jpg"
 images:
 - path: "/uploads/VG515_CAPAS_INSTA2-10f2d4.jpg"
