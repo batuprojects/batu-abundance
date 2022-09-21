@@ -9,8 +9,8 @@ position: 1
 <u>PRODUCTION</u><br>
 Photography, Video, Events, Budget Estimating + Management, Shoot Scheduling, Art Buying, Post Production
 
-<br><br><u>CASTING<br>
+<br><br><u>CASTING</u><br>
 Street/real Casting, Agency Models, Celebrity, Contract + usage negotiating
 
-<br><br><u>LOCATIONS<br>
+<br><br><u>LOCATIONS</u><br>
 Location Scouting (US & ABROAD),Permitting (shooting, licenses, city agency certificates), Location Mapping
