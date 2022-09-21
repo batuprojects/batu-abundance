@@ -11,3 +11,6 @@ Photography, Video, Events, Budget Estimating + Management, Shoot Scheduling, Ar
 
 <br><br><u>Casting<u><br>
 Street/real Casting, Agency Models, Celebrity, Contract + usage negotiating
+
+<br><br><u>LOCATIONS<u><br>
+Location Scouting (US & ABROAD),Permiting (all types), Location Mapping
