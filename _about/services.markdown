@@ -7,10 +7,10 @@ position: 1
 **SERVICES**<br><br>
 
 <u>PRODUCTION</u><br>
-Photography, Video, Events, Budget Estimating + Management, Shoot Scheduling, Art Buying, Post Production
+PHOTOGRAPHY, VIDEO, EVENTS, BUDGET ESTIMATING + MANAGEMENT Estimating, PROJECT SCHEDULING, ART BUYING, POST PRODUCTION
 
 <br><br><u>CASTING</u><br>
-Street/real Casting, Agency Models, Celebrity, Contract + usage negotiating
+STREET/REAL CASTING, AGENCY MODELS, CELEBRITY, CONTRACT + USAGE NEGOTIATING
 
 <br><br><u>LOCATIONS</u><br>
-Location Scouting (US & ABROAD),Permitting (shooting, licenses, city agency certificates), Location Mapping
+LOCATION SCOUTING (US & ABROAD),PERMITTING (shooting, licenses, city agency certificates), LOCATION MAPPING
