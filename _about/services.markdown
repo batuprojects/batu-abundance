@@ -6,7 +6,7 @@ position: 1
 
 **SERVICES**<br><br>
 
-<u>**PRODUCTION**</u><br>
+**<u>PRODUCTION</u><br>**
 PHOTOGRAPHY, VIDEO, EVENTS, BUDGET ESTIMATING + MANAGEMENT Estimating, PROJECT SCHEDULING, ART BUYING, POST PRODUCTION
 
 <br><br><u>CASTING</u><br>
