@@ -7,11 +7,12 @@ layout: default
 
 **ABOUT**<br><br>
 
-BATU is a full service production company with offices in New York and Los Angeles. It was founded in 2014 by Marcus Chang, a Brazilian born / NYC raised Executive Producer who started working in print / advertising media for Condé Nast and The New York Times Publications.
+BATU IS A FULL SERVICE PRODUCTION COMPANY WITH OFFICES IN NEW YORK AND LOS ANGELES. IT WAS FOUNDED IN 2014 BY MARCUS CHANG, A BRAZILIAN BORN/ NYC RAISED EXECUTIVE PRODUCER WHO STARTED WORKING IN PRINT/ ADVERTISING MEDIA FOR CONDÉ NAST AND THE NEW YORK TIMES PUBLICATIONS.
 
-We offer small to large-scale production of advertising and editorial shoots, film and digital content creation, events, pop ups, and public art installations.  Our range of services includes all aspects of production specializing in location scouting, casting, budget management, creative consulting, still and video production, art buying, and a wide range of client services.
+WE OFFER SMALL TO LARGE-SCALE PRODUCTION OF ADVERTISING AND EDITORIAL SHOOTS, FILM AND DIGITAL CONTENT CREATION, EVENTS, POP UPS, AND PUBLIC ART INSTALLATIONS.  OUR RANGE OF SERVICES INCLUDES ALL ASPECTS OF PRODUCTION SPECIALIZING IN LOCATION SCOUTING, CASTING, BUDGET MANAGEMENT, CREATIVE CONSULTING, STILL AND VIDEO PRODUCTION, ART BUYING, AND A WIDE RANGE OF CLIENT SERVICES.
 
-Our goal is to accomplish the creative vision of our clients while providing a high-end service ensuring a smooth and enjoyable production from start to finish.
+OUR GOAL IS TO ACCOMPLISH THE CREATIVE VISION OF OUR CLIENTS WHILE PROVIDING A HIGH-END SERVICE ENSURING A SMOOTH AND ENJOYABLE PRODUCTION FROM START TO FINISH.
+
 <br><br><br><br>
 
 
