@@ -3,7 +3,7 @@ title: Dazed & Confused - Azealia Banks
 date: 2017-01-07 05:00:00 Z
 categories:
 - editorial
-position: 51
+position: 52
 credit_text: 'Photographer: Sharif Hamza'
 thumbnail_image: "/uploads/MAIN-913b46.jpg"
 images:

@@ -3,7 +3,7 @@ title: New Balance Lifestyle 530
 date: 2017-01-07 18:23:00 Z
 categories:
 - advertising
-position: 50
+position: 51
 credit_text: 'Photographer: KT Auleta'
 thumbnail_image: "/uploads/nb_omni_product_MVL530AW_1.jpg"
 images:

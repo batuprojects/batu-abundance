@@ -3,7 +3,7 @@ title: VOGUE BRASIL AUGUST 2021
 date: 2022-07-07 23:22:00 Z
 categories:
 - editorial
-position: 3
+position: 4
 credit_text: |-
   Photographer: ZEE NUNES
 

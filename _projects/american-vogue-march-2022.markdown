@@ -6,7 +6,7 @@ categories:
 tags:
 - kendalljenner
 - americanvogue
-position: 8
+position: 9
 credit_text: |-
   Model: Kendall Jenner
 
