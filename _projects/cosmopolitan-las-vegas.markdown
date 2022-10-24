@@ -6,6 +6,7 @@ categories:
 position: 3
 credit_text: |
   PHOTOGRAPHER: ELLEN VON UNWERTH
+
   STYLIST: MIKIEL BENYAMIN
 thumbnail_image: "/uploads/COSMO1.jpg"
 images:
