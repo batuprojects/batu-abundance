@@ -8,7 +8,7 @@ credit_text: |
   PHOTOGRAPHER: ELLEN VON UNWERTH
 
   STYLIST: MIKIEL BENYAMIN
-thumbnail_image: "/uploads/COSMO1.jpg"
+thumbnail_image: "/uploads/STK-6ab3f9.jpg"
 images:
 - path: "/uploads/COSMO1-20bdb0.jpg"
   class: half
