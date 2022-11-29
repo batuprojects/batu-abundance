@@ -4,6 +4,7 @@ date: 2022-11-28 23:59:00 Z
 tags:
 - Video
 - advertising
+position: 26
 thumbnail_image: "/uploads/ezgif.com-gif-maker%20(2).gif"
 has_video: true
 video_embeds:

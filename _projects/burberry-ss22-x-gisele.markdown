@@ -8,7 +8,7 @@ tags:
 - burberry
 - riccardotisci
 - luigiandiango
-position: 1
+position: 2
 credit_text: |-
   Photographers: Luigi & Iango
 

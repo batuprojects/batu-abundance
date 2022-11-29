@@ -1,7 +1,7 @@
 ---
 title: CUSTOMELLOW FW 2017
 date: 2017-05-17 16:04:00 Z
-position: 40
+position: 42
 credit_text: |-
   Photographer: KT AULETA
 
