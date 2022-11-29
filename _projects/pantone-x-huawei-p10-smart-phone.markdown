@@ -4,7 +4,7 @@ date: 2017-06-26 19:43:00 Z
 categories:
 - advertising
 - video
-position: 25
+position: 26
 thumbnail_image: "/uploads/giphy-4be66b.gif"
 has_video: true
 video_embeds:
