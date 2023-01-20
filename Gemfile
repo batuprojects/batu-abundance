@@ -3,6 +3,8 @@ source "http://rubygems.org"
 gem 'jekyll'
 gem 'redcarpet'
 
+gem 'jekyll-sass-converter', '<3'
+
 # jekyll plugins
 gem 'jekyll-feed'
 gem 'jekyll-gist'
