@@ -3,7 +3,7 @@ title: 'VOGUE ITALIA x ZEE NUNES: DEC 2017'
 date: 2022-07-08 20:16:00 Z
 categories:
 - editorial
-position: 22
+position: 23
 credit_text: 'Photographer: Zee Nunes'
 thumbnail_image: "/uploads/Screen%20Shot%202022-07-08%20at%201.17.13%20PM-9b1618.png"
 images:

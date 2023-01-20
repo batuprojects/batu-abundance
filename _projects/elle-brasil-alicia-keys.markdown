@@ -3,7 +3,7 @@ title: ELLE BRASIL - ALICIA KEYS
 date: 2017-09-25 17:57:00 Z
 categories:
 - editorial
-position: 28
+position: 29
 credit_text: 'Photographer: Zoltan Tombor'
 thumbnail_image: "/uploads/09-2017ELLE%20c-79d6a9.jpg"
 images:

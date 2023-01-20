@@ -3,7 +3,7 @@ title: COSMOPOLITAN LAS VEGAS
 date: 2022-10-24 22:34:00 Z
 categories:
 - advertising
-position: 4
+position: 5
 credit_text: |
   PHOTOGRAPHER: ELLEN VON UNWERTH
 

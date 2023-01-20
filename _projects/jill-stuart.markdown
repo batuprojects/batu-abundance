@@ -3,7 +3,7 @@ title: Jill Stuart
 date: 2017-01-07 03:12:00 Z
 categories:
 - advertising
-position: 44
+position: 45
 credit_text: |-
   Photographer: Cedric Bouchet
   Styling: Mel Ottenberg
