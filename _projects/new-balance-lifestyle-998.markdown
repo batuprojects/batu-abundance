@@ -3,7 +3,7 @@ title: New Balance Lifestyle 998
 date: 2017-01-07 18:21:00 Z
 categories:
 - advertising
-position: 62
+position: 63
 credit_text: 'Photographer: KT Auleta'
 thumbnail_image: "/uploads/MAIN-74199c.jpg"
 images:

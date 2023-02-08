@@ -4,7 +4,7 @@ date: 2017-01-09 01:36:00 Z
 categories:
 - advertising
 - video
-position: 52
+position: 53
 thumbnail_image: "/uploads/Opening_Day.gif"
 has_video: true
 video_embeds:
