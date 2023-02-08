@@ -4,7 +4,7 @@ date: 2022-07-19 17:39:00 Z
 categories:
 - video
 - advertising
-position: 10
+position: 9
 thumbnail_image: "/uploads/ezgif.com-gif-maker-147c4e.gif"
 has_video: true
 video_embeds:
