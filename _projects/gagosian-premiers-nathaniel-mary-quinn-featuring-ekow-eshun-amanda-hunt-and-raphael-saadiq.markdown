@@ -2,6 +2,8 @@
 title: 'GAGOSIAN PREMIERS: Nathaniel Mary Quinn featuring Ekow Eshun, Amanda Hunt,
   and Raphael Saadiq'
 date: 2023-08-25 05:00:00 Z
+categories:
+- video
 tags:
 - Video
 position: 0
