@@ -4,6 +4,7 @@ title: 'GAGOSIAN PREMIERS: Nathaniel Mary Quinn featuring Ekow Eshun, Amanda Hun
 date: 2023-08-25 05:00:00 Z
 tags:
 - Video
+position: 0
 thumbnail_image: "/uploads/undefined-low.gif"
 has_video: true
 video_embeds:

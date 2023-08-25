@@ -3,7 +3,7 @@ title: AWAVEAWAKE x Kirsty Hum
 date: 2017-01-27 21:16:00 Z
 categories:
 - advertising
-position: 66
+position: 67
 credit_text: |-
   Photographer: Annabelle Mehran
 

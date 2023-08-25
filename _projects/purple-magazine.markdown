@@ -3,7 +3,7 @@ title: Heji Shin & Bernadette Corp for Purple Magazine
 date: 2017-01-07 03:50:00 Z
 categories:
 - editorial
-position: 58
+position: 59
 credit_text: |-
   Photographer: Heji Shin
 
