@@ -3,7 +3,7 @@ title: 'CHER: DECADES COLLECTION'
 date: 2022-11-28 23:45:00 Z
 categories:
 - advertising
-position: 1
+position: 2
 credit_text: |-
   Photographers: Luigi & Iango
 
