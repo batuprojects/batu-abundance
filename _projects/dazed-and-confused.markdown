@@ -3,7 +3,7 @@ title: DAZED & CONFUSED
 date: 2020-02-14 19:52:00 Z
 categories:
 - editorial
-position: 29
+position: 28
 credit_text: |-
   Photographer: Thistle Brown
 
