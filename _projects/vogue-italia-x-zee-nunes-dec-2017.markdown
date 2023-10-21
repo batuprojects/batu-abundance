@@ -3,7 +3,7 @@ title: VOGUE ITALIA x ZEE NUNES - DEC 2017
 date: 2022-07-08 19:58:00 Z
 categories:
 - editorial
-position: 15
+position: 14
 thumbnail_image: "/uploads/Screen%20Shot%202022-07-08%20at%2012.58.00%20PM.png"
 images:
 - path: "/uploads/Screen%20Shot%202022-07-08%20at%2012.58.00%20PM-5a66f9.png"

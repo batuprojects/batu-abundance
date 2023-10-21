@@ -7,7 +7,7 @@ categories:
 tags:
 - editorial
 - madonna
-position: 2
+position: 1
 credit_text: 'Photographers: Luigi & Iango'
 thumbnail_image: "/uploads/M%20Cover%20IT%202%20(1)-dd6cb2.jpg"
 images:
