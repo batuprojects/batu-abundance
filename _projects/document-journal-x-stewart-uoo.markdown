@@ -3,7 +3,7 @@ title: Document Journal x Stewart Uoo
 date: 2017-01-07 22:46:00 Z
 categories:
 - editorial
-position: 63
+position: 64
 credit_text: 'Artist: Stewart Uoo'
 thumbnail_image: "/uploads/MAIN-2d39de.jpg"
 images:

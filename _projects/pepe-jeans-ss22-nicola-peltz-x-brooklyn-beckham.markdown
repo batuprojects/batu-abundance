@@ -8,7 +8,7 @@ tags:
 - nicolapeltz
 - brooklynbeckham
 - luigiandiango
-position: 5
+position: 6
 credit_text: |-
   Photographers: Luigi & Iango
 

@@ -1,7 +1,7 @@
 ---
 title: 'DEPECHE MODE: MEMENTO MORI 2023'
 date: 2023-02-08 01:49:00 Z
-position: 3
+position: 4
 credit_text: 'PHOTO: ANTON CORBIJN'
 thumbnail_image: "/uploads/DB39A009-3025-44AB-8F93-6BA147645884.jpg"
 images:

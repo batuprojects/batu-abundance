@@ -6,7 +6,7 @@ categories:
 - video
 tags:
 - Video
-position: 0
+position: 1
 thumbnail_image: "/uploads/undefined-low.gif"
 has_video: true
 video_embeds:
