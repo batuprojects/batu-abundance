@@ -4,7 +4,7 @@ date: 2022-07-07 22:51:00 Z
 categories:
 - video
 - editorial
-position: 10
+position: 9
 credit_text: 'Model: Leiomy Maldona'
 thumbnail_image: "/uploads/MAIN_GIF.gif"
 has_video: true
