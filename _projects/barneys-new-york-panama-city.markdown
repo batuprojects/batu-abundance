@@ -3,7 +3,7 @@ title: Barneys New York - Panama City
 date: 2017-01-07 18:07:00 Z
 categories:
 - advertising
-position: 61
+position: 62
 credit_text: 'Photographer: Juergen Teller'
 thumbnail_image: "/uploads/MAIN-1ef74a.jpg"
 images:

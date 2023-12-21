@@ -3,7 +3,7 @@ title: 'BURBERRY: Matte Glow Cushion'
 date: 2023-10-21 13:37:00 Z
 tags:
 - advertising
-position: 15
+position: 16
 thumbnail_image: "/uploads/BURBERRY-MATTE-GLOW-CUSHION-BURBERRY_KISSES-AD.jpg"
 images:
 - path: "/uploads/BURBERRY-MATTE-GLOW-CUSHION-BURBERRY_KISSES-AD-a338fe.jpg"

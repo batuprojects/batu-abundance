@@ -4,7 +4,7 @@ date: 2017-01-07 18:46:00 Z
 categories:
 - events
 - special
-position: 67
+position: 68
 thumbnail_image: "/uploads/MAIN-366f90.jpg"
 images:
 - path: "/uploads/DSC_2202.jpg"

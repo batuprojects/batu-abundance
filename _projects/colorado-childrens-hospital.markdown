@@ -3,6 +3,7 @@ title: COLORADO CHILDREN'S HOSPITAL
 date: 2023-12-21 18:06:00 Z
 categories:
 - advertising
+position: 9
 thumbnail_image: "/uploads/28_Ortho%20Fracture_FBIG_PioneeringTheFuture%20_Social_GIF_1x1.mp4"
 images:
 - path: "/uploads/1_Surgery_FBIG_ExpertiseofMDTeam_Social_Static_1x1.png"
