@@ -4,7 +4,7 @@ date: 2023-12-21 18:06:00 Z
 categories:
 - advertising
 position: 9
-thumbnail_image: "/uploads/28_Ortho%20Fracture_FBIG_PioneeringTheFuture%20_Social_GIF_1x1.mp4"
+thumbnail_image: "/uploads/42_Brand_FBIG_ExpertiseofMDTeamFelix_Social_Static_1x1-f51a99.png"
 images:
 - path: "/uploads/1_Surgery_FBIG_ExpertiseofMDTeam_Social_Static_1x1.png"
   class: half
