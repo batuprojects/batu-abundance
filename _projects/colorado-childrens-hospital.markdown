@@ -24,6 +24,8 @@ images:
   class: half
 - path: "/uploads/42_Brand_FBIG_ExpertiseofMDTeamFelix_Social_Static_1x1.png"
   class: half
+- path: "/uploads/54_Brand_FBIG_PrecisionCareQuinn_Social_Static_1x1.png"
+  class: half
 video_embeds:
 - 
 - 
