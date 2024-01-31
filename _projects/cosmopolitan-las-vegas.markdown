@@ -16,5 +16,9 @@ images:
   class: half
 - path: "/uploads/COSMO2.jpg"
   class: half
+- path: "/uploads/ef5767f7-1c09-4ff9-9e34-d35f5b609429_rw_3840.jpg"
+  class: full
+- path: "/uploads/dfb21424-19a3-41f3-8175-6d647bf49f7f_rw_3840.jpg"
+  class: full
 ---
 
