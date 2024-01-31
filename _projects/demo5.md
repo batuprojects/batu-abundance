@@ -2,7 +2,7 @@
 title: Bernadette Corporation 2000 Wasted Years - Artists Space Retrospective
 categories:
 - special
-position: 27
+position: 28
 thumbnail_image: "/uploads/MAIN-67422a-432e6d.png"
 images:
 - path: "/uploads/MAIN-67422a.png"

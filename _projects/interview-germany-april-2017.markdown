@@ -3,7 +3,7 @@ title: HEJI SHIN x INTERVIEW GERMANY - APRIL 2017
 date: 2017-03-30 18:48:00 Z
 categories:
 - editorial
-position: 37
+position: 38
 credit_text: |-
   Photographer: Heji Shin
 

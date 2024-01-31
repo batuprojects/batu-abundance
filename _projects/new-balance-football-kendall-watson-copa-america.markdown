@@ -4,7 +4,7 @@ date: 2017-01-09 00:36:00 Z
 categories:
 - advertising
 - video
-position: 67
+position: 68
 thumbnail_image: "/uploads/CopaAmerica.gif"
 has_video: true
 video_embeds:

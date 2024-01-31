@@ -4,7 +4,7 @@ date: 2017-01-20 18:32:00 Z
 categories:
 - video
 - advertising
-position: 52
+position: 53
 thumbnail_image: "/uploads/NB_LUXE247.gif"
 has_video: true
 video_embeds:

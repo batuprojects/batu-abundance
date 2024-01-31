@@ -3,7 +3,7 @@ title: Wonderland Magazine - Janet Jackson
 date: 2017-01-10 22:47:00 Z
 categories:
 - editorial
-position: 51
+position: 52
 thumbnail_image: "/uploads/Janet.jpg"
 images:
 - path: "/uploads/6a012876052e4e970c01310f5108e3970c-800wi.jpg"
