@@ -4,7 +4,7 @@ date: 2024-01-31 21:33:00 Z
 tags:
 - advertising
 position: 19
-thumbnail_image: "/uploads/1768795-800w.jpg"
+thumbnail_image: "/uploads/1768793-800w-5cde74.jpg"
 images:
 - path: "/uploads/1768795-800w-52fd65.jpg"
   class: half
