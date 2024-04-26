@@ -3,7 +3,7 @@ title: 'BURBERRY BEAUTY: BYOND MATTE FOUNDATION'
 date: 2024-04-26 19:17:00 Z
 thumbnail_image: "/uploads/9C6AEA75-E98F-4E62-B1C4-30285878DD48.JPG"
 images:
-- path: "/uploads/Burberry-Beautys-Beyond-Wear-Perfecting-Matte-Foundation.avif"
+- path: "/uploads/Burberry-Beautys-Beyond-Wear-Perfecting-Matte-Foundation.jpeg"
   class: full
 - path: "/uploads/9C6AEA75-E98F-4E62-B1C4-30285878DD48-aecb9c.JPG"
   class: half
