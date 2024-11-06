@@ -1,5 +1,5 @@
 ---
-title: ANIMALE x GRACE ELIZABETH- Fall 2019
+title: ZEE NUNES - GRACE ELIZABETH for ANIMALE
 date: 2019-03-28 13:35:00 Z
 categories:
 - advertising
