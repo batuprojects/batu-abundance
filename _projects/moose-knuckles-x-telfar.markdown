@@ -1,5 +1,5 @@
 ---
-title: MOOSE KNUCKLES X TELFAR
+title: 'CAMPBELL ADDY: MOOSE KNUCKLES X TELFAR'
 date: 2024-01-31 21:33:00 Z
 tags:
 - advertising
