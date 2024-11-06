@@ -1,6 +1,13 @@
 ---
 title: 'LUIGI & IANGO - BURBERRY BEAUTY: BYOND MATTE FOUNDATION'
 date: 2024-04-26 19:17:00 Z
+tags:
+- advertising
+credit_text: |
+  Photographers: Luigi & Iango
+  Stylist: Sasha Harris
+  Hair: Akki Shirakawa
+  Make Up: Isamaya French
 thumbnail_image: "/uploads/9C6AEA75-E98F-4E62-B1C4-30285878DD48.JPG"
 images:
 - path: "/uploads/Burberry-Beautys-Beyond-Wear-Perfecting-Matte-Foundation.jpeg"
@@ -19,7 +26,3 @@ images:
   class: half
 ---
 
-Photographers: Luigi & Iango
-Stylist: Sasha Harris
-Hair: Akki Shirakawa
-Make Up: Isamaya French
