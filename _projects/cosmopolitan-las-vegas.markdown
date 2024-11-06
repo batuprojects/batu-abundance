@@ -1,5 +1,5 @@
 ---
-title: COSMOPOLITAN LAS VEGAS
+title: ELLEN VON UNWERTH -COSMOPOLITAN LAS VEGAS
 date: 2022-10-24 22:34:00 Z
 categories:
 - advertising
