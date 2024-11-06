@@ -1,5 +1,5 @@
 ---
-title: BURBERRY SS22 x GISELE
+title: LUIGI & IANGO - BURBERRY SS22 x GISELE
 date: 2022-07-07 21:23:00 Z
 categories:
 - advertising
