@@ -1,12 +1,11 @@
 ---
-title: 'CHER: DECADES COLLECTION'
+title: 'LUIGI & IANGO -CHER: DECADES COLLECTION'
 date: 2022-11-28 23:45:00 Z
 categories:
 - advertising
 position: 2
 credit_text: |-
   Photographers: Luigi & Iango
-
   Stylist: Patti Wilson
 thumbnail_image: "/uploads/33E63114-6B56-4439-A733-8B4E27D4AB27.JPG"
 images:
