@@ -1,5 +1,5 @@
 ---
-title: 'VANITY FAIR: MADONNA'
+title: 'LUIGI & IANGO - VANITY FAIR: MADONNA'
 date: 2023-01-18 20:31:00 Z
 categories:
 - editorial
