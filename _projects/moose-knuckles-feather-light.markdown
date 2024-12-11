@@ -2,8 +2,8 @@
 title: JASON NOCITO - MOOSE KNUCKLES FEATHER LIGHT
 date: 2022-07-19 17:39:00 Z
 categories:
-- video
 - advertising
+- video
 position: 1
 thumbnail_image: "/uploads/ezgif.com-gif-maker-147c4e.gif"
 has_video: true
